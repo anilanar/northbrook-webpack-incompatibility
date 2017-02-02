@@ -1,0 +1,14 @@
+{
+  "name": "northbrook-webpack-incompatibility",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "northbrook link && northbrook exec -- npm install"
+  },
+  "repository": "git@github.com:anilanar/northbrook-webpack-incompatibility.git",
+  "author": "Anil Anar <anilanar@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "northbrook": "^4.6.3"
+  }
+}

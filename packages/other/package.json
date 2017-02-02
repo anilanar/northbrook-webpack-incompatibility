@@ -1,0 +1,7 @@
+{
+  "name": "@nwi/other",
+  "version": "1.0.0",
+  "main": "./my-main-field/index.js",
+  "author": "Anil Anar <anilanar@hotmail.com>",
+  "license": "MIT"
+}

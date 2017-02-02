@@ -1,0 +1,15 @@
+{
+  "name": "@nwi/main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "build:detailed": "webpack --display-error-details"
+  },
+  "author": "Anil Anar <anilanar@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@nwi/other": "^1.0.0",
+    "webpack": "^2.2.1"
+  }
+}
